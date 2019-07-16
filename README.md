@@ -1,7 +1,7 @@
-# Volkswagen CarNet client for domoticz
-A Volkswagen CarNet Python client for Domoticz which can collect status from Volkswagen CarNet service and update Domoticz Virtual sensors and switches.
+# Volkswagen We Connect client for domoticz
+A Volkswagen We Connect Python client for Domoticz which can collect status from Volkswagen We Connect service and update Domoticz Virtual sensors and switches.
 
-## CarNet status
+## We Connect status
 The following information can be retrieved from CarNet:
 * Next service inspection
 * ODO Meter
@@ -18,7 +18,7 @@ The following information can be retrieved from CarNet:
 * Front windows heating state
 * Rear windows heating state
 
-## CarNet control
+## We Connect control
 The script is also able to start the following functions:
 * Control charging the vehicle
 * Climate control
@@ -34,3 +34,5 @@ https://github.com/wez3/volkswagen-carnet-client
 https://github.com/reneboer/python-carnet-client
 
 https://github.com/robinostlund/volkswagen-carnet
+
+Forked from skalman77
