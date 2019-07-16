@@ -2,7 +2,7 @@
 A Volkswagen We Connect Python client for Domoticz which can collect status from Volkswagen We Connect service and update Domoticz Virtual sensors and switches.
 
 ## We Connect status
-The following information can be retrieved from CarNet:
+The following information can be retrieved from We Connect:
 * Next service inspection
 * ODO Meter
 * Last vehicle update timestamp
